@@ -1,0 +1,10 @@
+# raw & backups (both phases)
+**/data/**
+**/data/**
+
+# notebook clutter
+**/.ipynb_checkpoints/**
+
+# caches
+**/__pycache__/**
+*.pyc
